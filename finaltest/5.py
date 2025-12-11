@@ -1,4 +1,4 @@
-# Dictionary berisi merek motor dan asal negaranya
+# Dictionary merek handphone
 handphone = {
     "vivo": [8 , 258],
     "oppo": [8 , 128],
