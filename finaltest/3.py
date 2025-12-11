@@ -1,3 +1,4 @@
+# Algoritma binary search dan interpolation search
 # 1 Binary search
 sayur = ["Bayam", "Kangkung", "Wortel", "Kentang", "Buncis", "Brokoli"]
 harga = [5000, 6000, 8000, 10000, 12000, 14000]
