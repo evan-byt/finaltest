@@ -1,4 +1,4 @@
-
+# Algoritma stack single dan doubble
 stack = []
 stack.append("Kucing")
 stack.append("Ayam")
