@@ -1,4 +1,4 @@
-#CONTOH ARRAY SATU DIMENSI, DUA DIMENSI, DAN TIGA DIMENSI
+#ARRAY SATU DIMENSI, DUA DIMENSI, DAN TIGA DIMENSI
 # 1 array satu dimensi
 hewan_laut = ['hiu', 'paus', 'lumba lumba', 'gurita', 'cumi cumi']
 print(hewan_laut) 
